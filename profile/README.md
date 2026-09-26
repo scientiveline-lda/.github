@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/scientive-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/scientive-hero-light.svg">
-  <img src="./assets/scientive-hero-light.svg" alt="Scientive Line — precision engineering meets software, illustrated by an interconnected technical system" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="./scientive-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./scientive-hero-light.svg">
+  <img src="./scientive-hero-light.svg" alt="Scientive Line — precision engineering meets software, illustrated by an interconnected technical system" width="1200">
 </picture>
 
 # Engineering meets code.
