@@ -12,11 +12,9 @@ We are **Scientive Line**, an engineering-led industrial software company. We tu
 
 ## Built for decisions that matter
 
-| | |
-| :--- | :--- |
-| **Cost engineering** | Faster, more consistent calculations for industrial processes and production decisions. |
-| **Custom software** | Digital ecosystems shaped around real workflows, with simplicity at the interface. |
-| **Technical consulting** | Industrial experience and software thinking applied to process and cost challenges. |
+- **Cost engineering:** Faster, more consistent calculations for industrial processes and production decisions.
+- **Custom software:** Digital ecosystems shaped around real workflows, with simplicity at the interface.
+- **Technical consulting:** Industrial experience and software thinking applied to process and cost challenges.
 
 ### The workbench
 
