@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Scientive Line</title>
+  <desc id="desc">Precision engineering meets software in an interconnected technical system.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1110"/><stop offset="1" stop-color="#19241c"/></linearGradient>
+    <linearGradient id="signal" x2="1" y2="0"><stop stop-color="#c2ff8a"/><stop offset="1" stop-color="#5be521"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#5be521" stop-opacity=".2"/><stop offset="1" stop-color="#5be521" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8ba68a" stroke-opacity=".11" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect width="1200" height="420" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+    <circle cx="964" cy="210" r="300" fill="url(#glow)"/>
+    <path d="M0 346H1200" stroke="#c2ff8a" stroke-opacity=".17"/>
+    <path d="M48 48h80M48 48v80M1152 48h-80M1152 48v80M48 372h80M48 372v-26M1152 372h-80M1152 372v-26" fill="none" stroke="#c2ff8a" stroke-opacity=".38" stroke-width="2"/>
+
+    <g fill="none" stroke="#8eea5a" transform="translate(936 206)">
+      <circle r="160" stroke-opacity=".13" stroke-width="1"/>
+      <circle r="127" stroke-opacity=".32" stroke-width="1.5" stroke-dasharray="180 22 48 22"/>
+      <circle r="86" stroke-opacity=".55" stroke-width="2" stroke-dasharray="110 15 33 15"/>
+      <circle r="46" stroke-opacity=".65" stroke-width="1.5"/>
+      <circle r="9" fill="#5be521" stroke="none"/>
+      <path d="M-197 0H-46M46 0h198M0-160v114M0 46v118M-113-113l81 81M32 32l81 81M-113 113l81-81M32-32l81-81" stroke-opacity=".2" stroke-width="1"/>
+      <path d="M-164-15h-30v30h30M164-15h30v30h-30M-15-164v-30h30v30M-15 164v30h30v-30" stroke-opacity=".66" stroke-width="2"/>
+      <circle cx="-113" cy="-113" r="4" fill="#c2ff8a" stroke="none"/><circle cx="113" cy="113" r="4" fill="#c2ff8a" stroke="none"/>
+    </g>
+    <path d="M670 205h60l24-38h42M936 206h216" fill="none" stroke="url(#signal)" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="796" cy="167" r="4" fill="#c2ff8a"/>
+    <text x="754" y="145" fill="#b6c6b5" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">INPUT / INDUSTRY</text>
+    <text x="1018" y="184" fill="#b6c6b5" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">OUTPUT / CLARITY</text>
+
+    <path d="M70 89l22 38V89" fill="none" stroke="#5be521" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+    <text x="112" y="120" fill="#f5f8f3" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="700" letter-spacing="5">SCIENTIVE</text>
+    <text x="113" y="146" fill="#c2ff8a" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="8">LINE</text>
+    <rect x="70" y="189" width="54" height="3" fill="url(#signal)"/>
+    <text x="70" y="237" fill="#f5f8f3" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="600" letter-spacing=".4">Precision for complex industry.</text>
+    <text x="70" y="272" fill="#adbdad" font-family="Arial,Helvetica,sans-serif" font-size="17">Engineering insight → dependable digital tools</text>
+    <text x="70" y="382" fill="#8fa48f" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2.5">SOFTWARE ENGINEERING  /  COST ENGINEERING  /  DIGITAL SYSTEMS</text>
+  </g>
+</svg>
